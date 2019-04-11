@@ -1,0 +1,1 @@
+Student fnum= 61362100Applicant name=Simeon, dateOfBird=Sun Jan 23 00:11:00 EET 1983, avarageGrades=5.5

@@ -1,0 +1,8 @@
+user21@abv.bg GUI
+user02@abv.bg JDBC
+user31@abv.bg XML
+user11@abv.bg JSON
+user22@abv.bg GUI
+user03@abv.bg JDBC
+user32@abv.bg XML
+user12@abv.bg JSON

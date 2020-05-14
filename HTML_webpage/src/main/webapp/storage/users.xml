@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>3</id>
+        <email>jiji@gmail.com</email>
+        <pass>123</pass>
+        <name>jiji</name>
+        <job>f</job>
+        <info>f</info>
+        <jobSkills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+        </jobSkills>
+        <personalSkills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+            <Skills>
+                <name>f</name>
+                <value>0</value>
+            </Skills>
+        </personalSkills>
+        <phone>f</phone>
+        <address>
+            <name>f</name>
+            <street>f</street>
+        </address>
+    </user>
+    <user>
+        <id>1</id>
+        <email>ivan@gmail.com</email>
+        <pass>123</pass>
+        <name>Ivan</name>
+        <job>Софтуерен Инженер</job>
+        <info>Известен факт е, че читателя обръща внимание на сърдържанието,
+			което чете, ане на оформлението му. Свойството на Lorem Ipsum е, че
+			до голямастепен има нормално разпределение на буквите и се чети
+			по-лесно,заразлика от нормален текст на английски език.
+		</info>
+        <jobSkills>
+            <Skills>
+                <name>Java</name>
+                <value>50</value>
+            </Skills>
+            <Skills>
+                <name>HTML</name>
+                <value>20</value>
+            </Skills>
+            <Skills>
+                <name>CSS</name>
+                <value>25</value>
+            </Skills>
+            <Skills>
+                <name>JavaScript</name>
+                <value>10</value>
+            </Skills>
+        </jobSkills>
+        <personalSkills>
+            <Skills>
+                <name>Communicative</name>
+                <value>5</value>
+            </Skills>
+            <Skills>
+                <name>Teamwork</name>
+                <value>10</value>
+            </Skills>
+            <Skills>
+                <name>Creativity</name>
+                <value>25</value>
+            </Skills>
+        </personalSkills>
+        <phone>0899803089</phone>
+        <address>
+            <name>Varna</name>
+            <street>Studentska</street>
+        </address>
+    </user>
+    <user>
+        <id>2</id>
+        <email>niki@gmail.com</email>
+        <name>Niki</name>
+        <job>Софтуерен специалист</job>
+        <info>Известен факт е, че читателя обръща внимание на сърдържанието,
+			което чете, ане на оформлението му. Свойството на Lorem Ipsum е, че
+			до голямастепен има нормално разпределение на буквите и се чети
+			по-лесно,заразлика от нормален текст на английски език.
+		</info>
+        <jobSkills>
+            <Skills>
+                <name>Java</name>
+                <value>20</value>
+            </Skills>
+            <Skills>
+                <name>HTML</name>
+                <value>40</value>
+            </Skills>
+            <Skills>
+                <name>CSS</name>
+                <value>15</value>
+            </Skills>
+            <Skills>
+                <name>JavaScript</name>
+                <value>20</value>
+            </Skills>
+        </jobSkills>
+        <personalSkills>
+            <Skills>
+                <name>Communicative</name>
+                <value>50</value>
+            </Skills>
+            <Skills>
+                <name>Teamwork</name>
+                <value>30</value>
+            </Skills>
+            <Skills>
+                <name>Creativity</name>
+                <value>25</value>
+            </Skills>
+        </personalSkills>
+        <phone>0899803090</phone>
+        <address>
+            <name>Varna</name>
+            <street>Studentska</street>
+        </address>
+    </user>
+</users>

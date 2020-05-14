@@ -1,0 +1,19 @@
+input[type=submit],.button{
+	background-color:#ffb606;
+	border:none;
+	border-radious:4px;
+	cursor:pointer;
+	text-decoration:none;
+	padding: 14px 20px;
+	margin:8px 0;
+	color: white;
+}
+button {
+	width: 50%;
+	background-color: #012e5e;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border-radius: 4px;
+	cursor: pointer;
+}
